@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: LicenseRef-CSSL-1.0
+
 THIS_SCRIPT_PATH=$(dirname $(readlink -f $0))
 
 DEFAULT_DIR="$THIS_SCRIPT_PATH/../../src"
