@@ -1,4 +1,6 @@
-The source code of `openair-spgwc` is distributed under **OAI Public License V1.1**.
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
+The source code of `openair-spgwc` is distributed under [**CSSL v1.0**](./LICENSE).
 
 For more details of the license, refer to [LICENSE](LICENSE) file in the same directory.
 

@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # RELEASE NOTES: #
 
 ## v1.2.0 -- February 2022 ##
